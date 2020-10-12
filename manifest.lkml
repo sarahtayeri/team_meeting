@@ -5,7 +5,6 @@ visualization: {
   id: "12345"
   label: "Cartoon (hosted in LookML)"
   file: "cartoon.js"
-  #url: "https://www.url.js"
   sri_hash: ""
   dependencies: []
   }
